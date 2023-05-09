@@ -12,4 +12,11 @@ If someone wants to do css let Marte or Jonas know, we need a css template for t
 Note: Use one h1 on each site, and give it a #id if you want a specific style to it, this can be styled later in the style.css file. 
 We'll use one(1) CSS file so this needs some structure.
 
-Jonas is available from 10.00am. He'll start a teams meeting for everyone on the project so he can give an intro and get your feedback and thoughts. 
+band and albums group!
+ive added a bands folder to the repo. i made 2 of the bands that some of the group wanted to make, and for the rest of you, you have to make a new folder inside the bands folder, and give it the name of your band, inside your folder(insertbandname) you will make your bandname.html file pluss an folder for your album, inside the folder for the album, add "albumName".html
+
+if you dont understand this explanation take a look at the two folders i placed inside the repo to get an idea, and if you still dont understand just give me a dm or call and i will help you. (Jonas Larsen)
+
+the repo is ready to be pulled now and start your own branch, if you have any troubles with this, please give me a dm or call and i will help resolve the issues.
+
+
