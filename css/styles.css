@@ -115,3 +115,18 @@ footer p{
     
 }
 
+/* Led zeppling page style*/ 
+.bandimgms {
+    margin-left: 12.5%;
+width: 75%;
+height: 350px;
+margin-top:90px;
+
+}
+
+.ledhead {
+    font-family: monospace;
+    font-size: 5em;
+   margin-left:40%;
+   margin-top: 50px;
+}
