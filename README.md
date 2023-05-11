@@ -1,5 +1,11 @@
 # bandstand
 
+note for pushing and pulling to main, 
+
+push up to your branch as many times as you want, but from now on only ask for new pull request to merge it into the main once you feel finished with the work. once you have done that, branch of again if you are going to do more changes, or starting a new project.
+and only the scrum master's are allowed to push it into main, so do not push the merge into main if you'r not a scrum master.
+
+
 Hello everyone, we have made the template for the project in figma.
 so just follow this link https://www.figma.com/file/P3ynv0HPiRUggrIi1WnM2q/Untitled?type=design&node-id=0%3A1&t=1zs3hWpLSLE8Ru1z-1
 
