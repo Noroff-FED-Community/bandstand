@@ -230,4 +230,83 @@ padding:1%;
 
 .lzpage {
     background-color: #000000;
+    color: white;
 }
+
+.lzfoot {
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+    margin-top: auto;
+    text-align: center;
+    border-top: 1px solid rgb(7, 7, 7);
+}
+
+.lzsymb
+{
+    width: 50%;
+}
+
+@media (max-width: 800px) {
+    h1 {
+      font-size: 1.5em;
+    }
+
+    .lzfoot {
+        width: 100%;
+        height: auto;
+        background-color: #000000;
+        margin-top: auto;
+        text-align: center;
+        border-top: 1px solid rgb(7, 7, 7);
+    }
+
+    .lzsymb
+{
+    width: 100%;
+}
+
+.bandinfoms 
+{
+    width: 100%;
+    height: auto;
+   margin-left: 0;
+    background-color: ;
+    color: white;
+    padding: 10px;
+    border-radius: 2em;
+    margin-top: 20px;
+    font-size: 2em;
+    font-family: monospace;
+    border: 10px solid white;
+   
+  
+}
+
+
+.bandimgms {
+margin:0;
+width: 100%;
+height: auto;
+margin-top:90px;
+padding:1%;
+
+}
+
+.albumslz {
+    width: 100%;
+  margin:0;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding-left: 5%;
+    margin-top: 50px;
+    border-radius: 2em;
+    border: 10px solid white;
+    margin-bottom: 20px;
+
+}
+
+
+
+  }
