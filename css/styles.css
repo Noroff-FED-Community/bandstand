@@ -155,10 +155,11 @@ footer p{
 
 /* Led zeppling page style*/ 
 .bandimgms {
-    margin-left: 12.5%;
-width: 75%;
+    margin-left: 25%;
+width: 50%;
 height: 350px;
 margin-top:90px;
+padding:1%;
 
 }
 
@@ -177,13 +178,13 @@ margin-top:90px;
     height: auto;
     margin-left: 25%;
     background-color: ;
-    color: black;
+    color: white;
     padding: 10px;
     border-radius: 2em;
-    margin-top: 100px;
+    margin-top: 20px;
     font-size: 2em;
     font-family: monospace;
-    border: 10px solid black;
+    border: 10px solid white;
    
   
 }
@@ -204,7 +205,9 @@ margin-top:90px;
     color: white;
     padding-left: 5%;
     margin-top: 50px;
-    border-radius: 10px;
+    border-radius: 2em;
+    border: 10px solid white;
+    margin-bottom: 20px;
 }
 
 .lztable
@@ -222,4 +225,9 @@ margin-top:90px;
     width: 45%;
     transition:500ms ;
    
+}
+
+
+.lzpage {
+    background-color: #000000;
 }
