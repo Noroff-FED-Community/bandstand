@@ -155,10 +155,11 @@ footer p{
 
 /* Led zeppling page style*/ 
 .bandimgms {
-    margin-left: 12.5%;
-width: 75%;
+    margin-left: 25%;
+width: 50%;
 height: 350px;
 margin-top:90px;
+padding:1%;
 
 }
 
@@ -174,15 +175,16 @@ margin-top:90px;
 .bandinfoms 
 {
     width: 50%;
+    height: auto;
     margin-left: 25%;
     background-color: ;
-    color: black;
-    padding: 50px;
+    color: white;
+    padding: 10px;
     border-radius: 2em;
     margin-top: 20px;
     font-size: 2em;
     font-family: monospace;
-    border: 10px solid black;
+    border: 10px solid white;
    
   
 }
@@ -203,7 +205,9 @@ margin-top:90px;
     color: white;
     padding-left: 5%;
     margin-top: 50px;
-    border-radius: 10px;
+    border-radius: 2em;
+    border: 10px solid white;
+    margin-bottom: 20px;
 }
 
 .lztable
@@ -218,7 +222,91 @@ margin-top:90px;
 }
 
 .albumimglz:hover {
-    width: 45%;
+    width: 60%;
     transition:500ms ;
    
 }
+
+
+.lzpage {
+    background-color: #000000;
+    color: white;
+}
+
+.lzfoot {
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+    margin-top: auto;
+    text-align: center;
+    border-top: 1px solid rgb(7, 7, 7);
+}
+
+.lzsymb
+{
+    width: 50%;
+}
+
+@media (max-width: 800px) {
+    h1 {
+      font-size: 1.5em;
+    }
+
+    .lzfoot {
+        width: 100%;
+        height: auto;
+        background-color: #000000;
+        margin-top: auto;
+        text-align: center;
+        border-top: 1px solid rgb(7, 7, 7);
+    }
+
+    .lzsymb
+{
+    width: 100%;
+}
+
+.bandinfoms 
+{
+    width: 100%;
+    height: auto;
+   margin-left: 0;
+    background-color: ;
+    color: white;
+    padding: 10px;
+    border-radius: 2em;
+    margin-top: 20px;
+    font-size: 2em;
+    font-family: monospace;
+    border: 10px solid white;
+   
+  
+}
+
+
+.bandimgms {
+margin:0;
+width: 100%;
+height: auto;
+margin-top:90px;
+padding:1%;
+
+}
+
+.albumslz {
+    width: 100%;
+  margin:0;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding-left: 5%;
+    margin-top: 50px;
+    border-radius: 2em;
+    border: 10px solid white;
+    margin-bottom: 20px;
+
+}
+
+
+
+  }
